@@ -34,6 +34,7 @@ Generator에 대해 설명할 때 꼭 필요한 두가지
 List: Mutable
 Tuple: Immutable
 
+5. RDBMS / NoSQL 
 
 
 - Python과 C 차이
